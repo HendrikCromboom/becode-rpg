@@ -34,3 +34,9 @@ A turn based RPG based on BeCode lore and coding references
 
 ---
 
+#### Puns and References ####
+
+* A boss called Sicko that summons Flowerbudsaurus
+* A boss called Kanchan that counters spells with her Veto-Power
+* A boss called Cis that summons rubber ducks from black holes?
+* An enemy called SASSY that confuses enemies with "RUBY INSTALL"
