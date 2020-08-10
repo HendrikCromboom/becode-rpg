@@ -7,6 +7,12 @@ A turn based RPG based on BeCode lore and coding references
 
 ---
 
+#### Disclaimer ###
+
+This is just a concept, anyone who wishes to have a reference removed can contact us directly or trough mail:
+hcromboom@gmail.com
+The game will feature tactful and apropriate jokes.
+
 #### Features ####
 
 * Save system: YES
@@ -34,9 +40,18 @@ A turn based RPG based on BeCode lore and coding references
 
 ---
 
+#### Ideas ####
+
+* Keeping buffs and debuffs on seperate vars makes them stack without having loads of calculation bugs
+* Tick rate could be turn or click based if no animations are used
+
+---
+
 #### Puns and References ####
 
+* A boss called Mathias, he is invulnerable for 2 turns and only then his art pops up
 * A boss called Sicko that summons Flowerbudsaurus
 * A boss called Kanchan that counters spells with her Veto-Power
 * A boss called Cis that summons rubber ducks from black holes?
 * An enemy called SASSY that confuses enemies with "RUBY INSTALL"
+* The save system is called GIT, saving is push, loading is pull
