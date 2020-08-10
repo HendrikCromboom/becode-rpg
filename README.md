@@ -32,7 +32,7 @@ The game will feature tactful and apropriate jokes.
 * CSS
 * JS
 * Photo Editor
-* EID
+* Text Editor
 
 ---
 
@@ -55,3 +55,4 @@ The game will feature tactful and apropriate jokes.
 * A boss called Cis that summons rubber ducks from black holes?
 * An enemy called SASSY that confuses enemies with "RUBY INSTALL"
 * The save system is called GIT, saving is push, loading is pull
+* A boss called "He who shall not be named", its basically coronavirus and its immune to all close combat moves. Players who collect the "Works from home" artifact are immune to its debuffs.
