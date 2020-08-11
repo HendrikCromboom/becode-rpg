@@ -16,13 +16,17 @@ The game will feature tactful and apropriate jokes.
 #### Features ####
 
 * Save system: YES
+* Turn Based Combat/Actions: YES
 * Overworld Map: YES
 * Overworld Movement: YES/NO?
 * Battle System: YES
 * Stat System: YES
 * Item System: FIXED/GENERATED?
+* Inventory System
 * Graphics: PIXELART
-* Animations: Perhaps at a later stage
+* Animations: NO/Perhaps at a later stage
+* Console: To display combar messages and story
+* Action bar: Attack choices, greys out on opponents turn
 
 ---
 
